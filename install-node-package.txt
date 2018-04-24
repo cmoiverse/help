@@ -1,0 +1,1 @@
+use --unsafe-perm tag when installation always fails
