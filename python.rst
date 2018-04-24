@@ -10,4 +10,5 @@ DJANGO
   - https://github.com/sclorg/django-ex
   - https://realpython.com/learn/start-django/
   - Also check out the official documentation
+- https://stackoverflow.com/questions/26185687/you-are-trying-to-add-a-non-nullable-field-new-field-to-userprofile-without-a
 
