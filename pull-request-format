@@ -1,0 +1,13 @@
+(Format inspired by Paypal; will be updated in the future)
+What: Upgrades kcd-scripts
+
+Why: Mostly to get the neat new features from semantic-release.
+
+How: Changing the version in package.json
+
+Checklist:
+
+- Documentation N/A
+- Tests N/A
+- Ready to be merged
+- Added myself to contributors table N/A
