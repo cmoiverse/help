@@ -1,1 +1,2 @@
 - https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit
+- https://stackoverflow.com/questions/4040717/git-remote-prune-didnt-show-as-many-pruned-branches-as-i-expected
