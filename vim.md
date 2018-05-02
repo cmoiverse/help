@@ -63,3 +63,5 @@
 - :g/pat1/s//pat2/g - replace pattern1 with pattern2
 - :g/a/s// /g - replace a by blank
 - :g/a/s///g - replace a by nothing
+
+- Helpful VIM tips from Luke Smith - https://www.youtube.com/watch?v=hraHAZ1-RaM
