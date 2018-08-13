@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/2563632/how-can-i-merge-two-commits-into-one-if-i-already-started-rebase
+
+Go BBB commits back - Use git rebase --interactive HEAD~<number of commits>
+Then use git push origin <branchname> -f
